@@ -2,9 +2,10 @@
 
 Zomato Customer Demographics Analysis Project Overview
 
-    This project analyzes customer demographics to uncover insights about how gender, marital status,
-    and occupation influence Zomato’s business performance. By identifying patterns in customer behavior,
-    this analysis provides actionable recommendations to optimize marketing strategies and drive sales growth.
+    This project analyzes customer demographics to uncover insights about how gender,
+    marital status, and occupation influence Zomato’s business performance. By
+    identifying patterns in customer behavior, this analysis provides actionable
+    recommendations to optimize marketing strategies and drive sales growth.
 
 Goals
 
